@@ -8,10 +8,10 @@ I am a **highly versatile and fast learner**, capable of seamlessly switching be
 ---
 
 ### **🛠 Technical Skills**
-*   **Languages:** Java (Core, Spring Boot), Go (Golang), TypeScript, JavaScript, PHP, HTML [3-6].
+*   **Languages:** Java (Core, Spring Boot), Go (Golang), TypeScript, JavaScript, PHP, HTML 
 *   **Architectures & Patterns:** Layered Architecture, MVC, SOLID Principles, Singleton Design Pattern.
-*   **Security & Data:** JWT, Spring Security, OAuth, Password Hashing, Session Management, Database Transaction Integrity [5].
-*   **Frontend Frameworks:** Svelte, Java Swing (Desktop UI), Reusable Components [3, 4].
+*   **Security & Data:** JWT, Spring Security, OAuth, Password Hashing, Session Management, Database Transaction Integrity 
+*   **Frontend Frameworks:** Svelte, Java Swing (Desktop UI), Reusable Components 
 
 ---
 
@@ -20,19 +20,19 @@ I am a **highly versatile and fast learner**, capable of seamlessly switching be
 #### **[Froztella-v1](https://github.com/S-Hesh/froztella-v1)** ☕
 *   **The Problem:** Designed for a real-world coffee shop where the primary hardware was a low-performing personal laptop.
 *   **The Solution:** Researched and implemented a **Go (Golang) backend** (a new stack for me) to ensure **maximum performance and minimum memory usage**.
-*   **Tech Stack:** Svelte (Frontend) + Go (Backend) + Advanced Transaction Management [3].
+*   **Tech Stack:** Svelte (Frontend) + Go (Backend) + Advanced Transaction Management
 
 #### **[SportLink](https://github.com/S-Hesh/SportLink)** 🏆
 *   **Description:** A heavy-backend full-stack web application developed during my second academic year.
 *   **Key Features:** Used **Layered Architecture** with modern Spring Boot annotations for low-boilerplate code.
-*   **Security:** Implemented **JWT-based token authentication**, Spring Security, password hashing, and session timeouts [5].
+*   **Security:** Implemented **JWT-based token authentication**, Spring Security, password hashing, and session timeouts 
 
 #### **[GearRentPro](https://github.com/S-Hesh/GearRentPro)** ⚙️
-*   **Description:** An equipment rental management system built for my **CMJD 113** coursework [4].
+*   **Description:** An equipment rental management system built for my **CMJD 113** coursework 
 *   **Design:** Utilized the **Singleton pattern** for database connectivity to prevent duplicate queries and ensure stability.
-*   **UI:** Developed a desktop interface using **Java Swing** [3].
+*   **UI:** Developed a desktop interface using **Java Swing** 
 
 ---
 
 ### **📫 How to reach me**
-*   **GitHub:** [S-Hesh](https://github.com/S-Hesh) [1]
+*   **LinkedIn:**(www.linkedin.com/in/sakindu-ranepura-a8b7b32b5)
